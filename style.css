@@ -1,0 +1,42 @@
+body{
+    background-image: url("subway.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    overflow: hidden;
+}
+
+h1{
+    margin:40px;
+    font-size: 40px;
+}
+
+h2{
+    font-size: 40px;
+    margin:40px;
+}
+
+p{
+    font-size: 40px;
+    margin:40px;
+}
+
+#enter{
+    background-color:red;
+    color:white;
+    width:150px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    margin:40px;
+}
+
+#save{
+    background-color:green;
+    color:white;
+    width:150px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    margin:40px;
+}
